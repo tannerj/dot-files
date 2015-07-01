@@ -1,0 +1,9 @@
+[color]
+	ui = always
+[user]
+	name = Joel Tanner Jones
+	email = jonesjoe@ecu.edu
+[core]
+	editor = vim
+[credential]
+	helper = osxkeychain
