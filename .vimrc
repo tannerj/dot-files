@@ -6,3 +6,5 @@ set expandtab
 set autoindent
 set clipboard=unnamed
 set backspace=indent,eol,start
+"git commit message settings
+autocmd Filetype gitcommit setlocal spell textwidth=72
